@@ -14,7 +14,7 @@ To analyze how weather conditions impact flight operations by evaluating delays,
 
 1️⃣ How many total flights are operated in the given period?
 
-A total of 5,992 flights were operated during the analysis period.
+    A total of 5,992 flights were operated during the analysis period.
 
 2️⃣ How many flights were impacted by weather conditions?
 Out of total flights, 885 flights were affected due to weather conditions.
