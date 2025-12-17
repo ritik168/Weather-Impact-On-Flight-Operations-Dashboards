@@ -183,6 +183,9 @@ Provide flexible rescheduling options to reduce no-shows.
 Focus on customer experience recovery strategies for weather-affected flights.
 
 
+![Screenshort](https://github.com/ritik168/Weather-Impact-On-Flight-Operations-Dashboards/blob/main/Screenshot%202025-12-16%20235513.png)
+
+
 ## Project End
 
 
