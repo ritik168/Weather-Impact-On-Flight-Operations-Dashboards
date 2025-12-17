@@ -10,11 +10,11 @@ Weather Impact Analysis on Flight Operations & Customer Experience
 
 To analyze how weather conditions impact flight operations by evaluating delays, cancellations, on-time performance, passenger satisfaction, and no-show behavior, enabling airlines to improve operational efficiency and customer experience through data-driven insights.
 
-## 🎯 Business Problem & Insights
+## 🎯 Business Problems & Insights
 
 1️⃣ How many total flights are operated in the given period?
 
-   A total of 5,992 flights were operated during the analysis period.
+A total of 5,992 flights were operated during the analysis period.
 
 
 2️⃣ How many flights were impacted by weather conditions?
@@ -67,6 +67,7 @@ Weather conditions contribute to a 6% no-show rate, indicating passengers are mo
 
 
 1️⃣1️⃣ Which travel purpose has the highest no-show rate during bad weather?
+
 During bad weather:
 
 Emergency travel shows the highest no-show count
@@ -119,6 +120,67 @@ Passenger no-show rate.
 Weather disruptions significantly affect flight punctuality, customer experience, and reliability, highlighting the need for better weather forecasting, contingency planning, and customer communication.
 
 
+## 📊 KPI List
+
+Total Flights Operated
+
+Weather-Impacted Flights
+
+Average Weather Delay (Minutes)
+
+On-Time Performance Rate (Weather Impacted)
+
+Weather-Related Cancellations
+
+Cancellation Rate in Bad Weather (%)
+
+Passenger Satisfaction Score (With vs Without Weather Impact)
+
+No-Show Rate due to Weather (%)
+
+No-Show Count by Travel Purpose
+
+Delay Trend Over Time (Weather vs No Weather)
+
+
+## 🧠 Tools & Skills Used:
+
+Power BI / Tableau (Dashboarding)
+
+Data Analysis & KPI Design
+
+Data Visualization
+
+Business Insights & Reporting
+
+
+## 📈 Key Insights (Short)
+
+Weather impacted 885 out of 5,992 flights, causing an average delay of 10.39 minutes.
+
+On-time performance dropped to 76% for weather-affected flights.
+
+Passenger satisfaction decreased from 7.0 to 6.8 during weather disruptions.
+
+Only 5.49% of flights were cancelled, but delays and no-shows increased significantly.
+
+Emergency and business travelers showed higher no-show rates during bad weather.
+
+
+## 💡 Business Recommendations Summary
+
+Improve weather forecasting and contingency planning to reduce delays.
+
+Proactively inform passengers during bad weather to improve satisfaction.
+
+Allocate buffer time and backup crews during high-risk weather periods.
+
+Provide flexible rescheduling options to reduce no-shows.
+
+Focus on customer experience recovery strategies for weather-affected flights.
+
+
+## Project End
 
 
 
