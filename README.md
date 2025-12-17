@@ -78,6 +78,7 @@ Leisure and Family travel are less affected.
 
 
 1️⃣2️⃣ How does no-show behavior differ when there is no weather impact?
+
 Without weather impact:
 
 Leisure and Family travel have higher no-show counts
@@ -86,6 +87,7 @@ Business travel remains relatively stable.
 
 
 1️⃣3️⃣ What is the overall operational impact of weather on flights?
+
 Weather causes:
 
 Increased delays
@@ -102,6 +104,7 @@ This makes weather a critical operational risk factor.
 
 
 1️⃣4️⃣ What key operational metrics are most affected by weather?
+
 The most impacted KPIs are:
 
 Average delay time
